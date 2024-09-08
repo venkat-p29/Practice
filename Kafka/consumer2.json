@@ -1,0 +1,7 @@
+{"id": 1, "name": "Product1", "category": "CATEGORYA", "price": 9.99, "last_updated": "2024-09-08T12:00:00+00:00"}
+{"id": 4, "name": "Product4", "category": "CATEGORYA", "price": 25.0, "last_updated": "2024-09-08T12:03:00+00:00"}
+{"id": 5, "name": "Product5", "category": "CATEGORYA", "price": 30.0, "last_updated": "2024-09-08T12:04:00+00:00"}
+{"id": 6, "name": "Product6", "category": "CATEGORYB", "price": 69.98999786376953, "last_updated": "2024-09-08T12:05:00+00:00"}
+{"id": 8, "name": "Product8", "category": "CATEGORYC", "price": 89.98999786376953, "last_updated": "2024-09-08T12:07:00+00:00"}
+{"id": 13, "name": "Product13", "category": "CATEGORYB", "price": 139.99000549316406, "last_updated": "2024-09-08T12:12:00+00:00"}
+{"id": 15, "name": "Product15", "category": "CATEGORYC", "price": 159.99000549316406, "last_updated": "2024-09-08T12:14:00+00:00"}
